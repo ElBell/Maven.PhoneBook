@@ -1,7 +1,17 @@
 package com.zipcodewilmington.phonebook;
 
-/**
- * Created by leon on 1/23/18.
- */
+import org.junit.After;
+import org.junit.Before;
+
+import static org.junit.Assert.*;
+
 public class PhoneBookTest {
+
+    @Before
+    public void setUp() throws Exception {
+    }
+
+    @After
+    public void tearDown() throws Exception {
+    }
 }
